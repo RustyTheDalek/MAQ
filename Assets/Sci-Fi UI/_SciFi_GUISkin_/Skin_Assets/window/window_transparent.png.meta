@@ -1,0 +1,66 @@
+fileFormatVersion: 2
+guid: 06edc4e02f9c48647adfed0a778cb8aa
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: window_transparent_0
+    21300002: window_transparent_1
+    21300004: window_transparent_2
+    21300006: window_transparent_3
+    21300008: window_transparent_4
+    21300010: window_transparent_5
+    21300012: window_transparent_6
+    21300014: window_transparent_7
+    21300016: window_transparent_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 3000
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: window_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 955
+        height: 933
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 100, y: 100, z: 100, w: 100}
+  spritePackingTag: 
+  userData: 
